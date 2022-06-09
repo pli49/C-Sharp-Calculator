@@ -6,4 +6,4 @@ The calculator can operate with + - * / four operations and allows uncasesensiti
 The calculator catches errors when the operation is not vailad or when the number inputs are not numbers. The program also catches all other expections and display them as error messages in console. TODO: log errors instead of just displaying them.
 
 Unit test needed development.
-![alt text](https://github.com/pli49/C-Sharp-Calculator/flowchart.png?raw=true)
+![alt text](https://github.com/pli49/C-Sharp-Calculator/blob/main/flowchart.png?raw=true)
